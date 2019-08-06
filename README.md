@@ -14,6 +14,10 @@ See also:
 https://www.kaggle.com/christophercorrea/preparing-the-d-c-real-property-dataset
 https://www.kaggle.com/together/eda-of-dc-residential-properties
 
+And this example of using Keras in another domain (MPG prediction for cars):
+
+https://www.tensorflow.org/tutorials/keras/basic_regression
+
 Columns:
 
 ID
